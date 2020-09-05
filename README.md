@@ -1,1 +1,1 @@
-# inifnite-platformer
+# infinite.
